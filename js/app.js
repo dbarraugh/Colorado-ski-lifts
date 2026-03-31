@@ -6,6 +6,7 @@
   let currentSearch = '';
   let currentStatus = 'all';
   const POLL_INTERVAL_MS = 5 * 60 * 1000; // 5 minutes
+  const temperatures = {}; // { resortId: temperatureF }
 
   async function loadData() {
     // Cache-busting query string ensures the browser fetches the latest file
@@ -26,6 +27,9 @@
       renderStats();
       renderCards();
       bindEvents();
+
+      // Fetch summit temperatures (non-blocking)
+      fetchTemperatures().then(() => renderCards());
 
       // Auto-refresh data every 5 minutes without a full page reload
       setInterval(refresh, POLL_INTERVAL_MS);
@@ -48,6 +52,9 @@
 
       renderStats();
       renderCards();
+
+      // Refresh temperatures too
+      fetchTemperatures().then(() => renderCards());
     } catch (err) {
       console.error('Auto-refresh failed:', err);
       document.getElementById('last-updated').textContent = 'Refresh failed – retrying soon';
@@ -64,6 +71,27 @@
       });
     }
     return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+  }
+
+  async function fetchTemperatures() {
+    try {
+      const lats = allAreas.map(a => a.latitude).join(',');
+      const lons = allAreas.map(a => a.longitude).join(',');
+      const elevations = allAreas.map(a => Math.round(a.elevation.summit * 0.3048)).join(',');
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${lats}&longitude=${lons}&elevation=${elevations}&current_weather=true&temperature_unit=fahrenheit`;
+      const resp = await fetch(url);
+      if (!resp.ok) throw new Error('Weather API error');
+      const results = await resp.json();
+      // Open-Meteo returns an array when multiple locations are queried
+      const weatherList = Array.isArray(results) ? results : [results];
+      weatherList.forEach((w, i) => {
+        if (w.current_weather) {
+          temperatures[allAreas[i].id] = Math.round(w.current_weather.temperature);
+        }
+      });
+    } catch (err) {
+      console.error('Failed to fetch temperatures:', err);
+    }
   }
 
   function populateRegionFilter() {
@@ -136,11 +164,17 @@
     card.className = 'ski-area-card';
     card.dataset.id = area.id;
 
+    const temp = temperatures[area.id];
+    const tempHTML = temp !== undefined
+      ? `<div class="summit-temp"><span class="temp-value">${temp}°F</span>summit temp</div>`
+      : `<div class="summit-temp"><span class="temp-value">--</span>summit temp</div>`;
+
     card.innerHTML = `
       <div class="card-header">
         <h2>${escHtml(area.name)}</h2>
         <span class="region-badge">📍 ${escHtml(area.region)}</span>
         <div class="elevation-info">
+          ${tempHTML}
           <span class="value">${area.elevation.summit.toLocaleString()} ft</span>
           summit
         </div>

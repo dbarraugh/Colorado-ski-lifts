@@ -91,7 +91,9 @@
           "type": "quad",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.6403,
+      "longitude": -106.3742
     },
     {
       "id": "breckenridge",
@@ -168,7 +170,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.4817,
+      "longitude": -106.0384
     },
     {
       "id": "keystone",
@@ -230,7 +234,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.5792,
+      "longitude": -105.9428
     },
     {
       "id": "arapahoe-basin",
@@ -282,7 +288,9 @@
           "type": "surface",
           "status": "closed"
         }
-      ]
+      ],
+      "latitude": 39.6426,
+      "longitude": -105.8719
     },
     {
       "id": "loveland",
@@ -334,7 +342,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.68,
+      "longitude": -105.8978
     },
     {
       "id": "copper-mountain",
@@ -396,7 +406,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.5022,
+      "longitude": -106.1497
     },
     {
       "id": "beaver-creek",
@@ -448,7 +460,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.6042,
+      "longitude": -106.5164
     },
     {
       "id": "winter-park",
@@ -515,7 +529,9 @@
           "type": "gondola",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.8841,
+      "longitude": -105.7625
     },
     {
       "id": "eldora",
@@ -557,7 +573,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.9372,
+      "longitude": -105.5828
     },
     {
       "id": "steamboat",
@@ -619,7 +637,9 @@
           "type": "double",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 40.4572,
+      "longitude": -106.8045
     },
     {
       "id": "telluride",
@@ -676,7 +696,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 37.9375,
+      "longitude": -107.8123
     },
     {
       "id": "crested-butte",
@@ -728,7 +750,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 38.8986,
+      "longitude": -106.9653
     },
     {
       "id": "aspen-mountain",
@@ -770,7 +794,9 @@
           "type": "quad",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.1869,
+      "longitude": -106.8186
     },
     {
       "id": "aspen-highlands",
@@ -807,7 +833,9 @@
           "type": "double",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.1583,
+      "longitude": -106.8556
     },
     {
       "id": "snowmass",
@@ -864,7 +892,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.2089,
+      "longitude": -106.9492
     },
     {
       "id": "buttermilk",
@@ -901,7 +931,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 39.2031,
+      "longitude": -106.8683
     },
     {
       "id": "wolf-creek",
@@ -943,7 +975,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 37.4742,
+      "longitude": -106.7936
     },
     {
       "id": "monarch",
@@ -980,7 +1014,9 @@
           "type": "surface",
           "status": "closed"
         }
-      ]
+      ],
+      "latitude": 38.5125,
+      "longitude": -106.3328
     },
     {
       "id": "purgatory",
@@ -1027,7 +1063,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 37.6303,
+      "longitude": -107.8142
     },
     {
       "id": "ski-cooper",
@@ -1059,7 +1097,9 @@
           "type": "surface",
           "status": "closed"
         }
-      ]
+      ],
+      "latitude": 39.3603,
+      "longitude": -106.3
     },
     {
       "id": "silverton",
@@ -1081,7 +1121,9 @@
           "type": "surface",
           "status": "open"
         }
-      ]
+      ],
+      "latitude": 37.8847,
+      "longitude": -107.6653
     }
   ]
 }

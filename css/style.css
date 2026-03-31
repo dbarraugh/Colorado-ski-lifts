@@ -286,6 +286,21 @@ select:focus {
   display: block;
 }
 
+.summit-temp {
+  font-size: 0.7rem;
+  opacity: 0.9;
+  margin-bottom: 0.4rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid rgba(255,255,255,0.25);
+}
+
+.summit-temp .temp-value {
+  font-size: 1.3rem;
+  font-weight: 800;
+  display: block;
+  line-height: 1.1;
+}
+
 .card-stats {
   display: flex;
   border-bottom: 1px solid #e5e7eb;
@@ -472,6 +487,20 @@ footer a {
   }
 
   .elevation-info {
-    display: none;
+    position: static;
+    transform: none;
+    text-align: left;
+    margin-top: 0.5rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+  }
+
+  .summit-temp {
+    border-bottom: none;
+    border-right: 1px solid rgba(255,255,255,0.25);
+    padding-bottom: 0;
+    padding-right: 1rem;
+    margin-bottom: 0;
   }
 }
