@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Colorado Ski Lifts – Live Lift Status</title>
+  <meta name="description" content="Check the current lift status for all Colorado ski resorts. See which lifts are open or closed at Vail, Breckenridge, Aspen, Steamboat, and more." />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⛷️</text></svg>" />
+</head>
+<body>
+
+  <header>
+    <div class="header-content">
+      <span class="header-icon">⛷️</span>
+      <h1>Colorado Ski Lifts</h1>
+      <p>Current lift status across all Colorado ski resorts</p>
+      <span class="last-updated" id="last-updated">Loading…</span>
+    </div>
+  </header>
+
+  <main>
+    <!-- Stats Overview -->
+    <div class="stats-bar" role="region" aria-label="Overall statistics">
+      <div class="stat-card">
+        <div class="stat-number" id="stat-areas">–</div>
+        <div class="stat-label">Resorts</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-open-areas">–</div>
+        <div class="stat-label">Resorts Open</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-open-lifts">–</div>
+        <div class="stat-label">Lifts Open</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="stat-total-lifts">–</div>
+        <div class="stat-label">Total Lifts</div>
+      </div>
+    </div>
+
+    <!-- Filters & Search -->
+    <div class="controls" role="search">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input
+          type="search"
+          id="search-input"
+          placeholder="Search resorts or regions…"
+          aria-label="Search ski areas"
+        />
+      </div>
+
+      <div class="filter-group" role="group" aria-label="Filter by region">
+        <label for="region-filter">Region:</label>
+        <select id="region-filter" aria-label="Filter by region">
+          <option value="all">All Regions</option>
+        </select>
+      </div>
+
+      <div class="filter-group" role="group" aria-label="Filter by status">
+        <label>Status:</label>
+        <button class="filter-btn active" data-status="all">All</button>
+        <button class="filter-btn" data-status="open">Has Open Lifts</button>
+        <button class="filter-btn" data-status="closed">Fully Closed</button>
+      </div>
+    </div>
+
+    <!-- Ski Area Cards -->
+    <div class="ski-areas-grid" id="ski-areas-grid" role="list" aria-label="Ski areas">
+      <!-- Cards rendered by JavaScript -->
+      <div class="no-results">
+        <div class="icon">⏳</div>
+        <p>Loading ski areas…</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>
+      Colorado Ski Lifts &mdash; Built with ❤️ for powder seekers.
+      Lift status data is illustrative; always verify with the
+      <a href="https://www.coloradoski.com" target="_blank" rel="noopener noreferrer">Colorado Ski Country USA</a>
+      or your resort's official website before heading out.
+    </p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

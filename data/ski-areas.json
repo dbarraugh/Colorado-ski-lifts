@@ -1,0 +1,423 @@
+{
+  "lastUpdated": "2026-03-31",
+  "skiAreas": [
+    {
+      "id": "vail",
+      "name": "Vail",
+      "region": "Summit/Eagle",
+      "website": "https://www.vail.com",
+      "elevation": {
+        "base": 8120,
+        "summit": 11570
+      },
+      "lifts": [
+        { "name": "Eagle Bahn Gondola", "type": "gondola", "status": "open" },
+        { "name": "Gondola One", "type": "gondola", "status": "open" },
+        { "name": "Highline", "type": "quad", "status": "open" },
+        { "name": "Northwoods Express", "type": "quad", "status": "open" },
+        { "name": "Born Free Express", "type": "quad", "status": "open" },
+        { "name": "Wildwood Express", "type": "quad", "status": "open" },
+        { "name": "Avanti Express", "type": "quad", "status": "open" },
+        { "name": "Mountaintop Express", "type": "quad", "status": "open" },
+        { "name": "Sun Down Bowl", "type": "quad", "status": "open" },
+        { "name": "Sun Up Express", "type": "quad", "status": "open" },
+        { "name": "China Bowl", "type": "quad", "status": "open" },
+        { "name": "Tea Cup Bowl", "type": "quad", "status": "open" },
+        { "name": "Game Creek Bowl", "type": "quad", "status": "closed" },
+        { "name": "Orient Express", "type": "quad", "status": "closed" },
+        { "name": "Little Dipper", "type": "surface", "status": "open" },
+        { "name": "Chaos Canyon", "type": "quad", "status": "open" }
+      ]
+    },
+    {
+      "id": "breckenridge",
+      "name": "Breckenridge",
+      "region": "Summit/Eagle",
+      "website": "https://www.breckenridge.com",
+      "elevation": {
+        "base": 9600,
+        "summit": 12998
+      },
+      "lifts": [
+        { "name": "BreckConnect Gondola", "type": "gondola", "status": "open" },
+        { "name": "Independence SuperChair", "type": "six-pack", "status": "open" },
+        { "name": "Falcon SuperChair", "type": "six-pack", "status": "open" },
+        { "name": "Snowflake Six", "type": "six-pack", "status": "open" },
+        { "name": "Beaver Run SuperChair", "type": "quad", "status": "open" },
+        { "name": "Peak 8 SuperConnect", "type": "six-pack", "status": "open" },
+        { "name": "Quicksilver Six", "type": "six-pack", "status": "open" },
+        { "name": "Rocky Mountain SuperExpress", "type": "six-pack", "status": "open" },
+        { "name": "Imperial Express SuperChair", "type": "quad", "status": "open" },
+        { "name": "T-Bar", "type": "surface", "status": "open" },
+        { "name": "Peak 7 SuperExpress", "type": "six-pack", "status": "open" },
+        { "name": "Mercury SuperChair", "type": "quad", "status": "closed" },
+        { "name": "Rip's Ride", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "keystone",
+      "name": "Keystone",
+      "region": "Summit/Eagle",
+      "website": "https://www.keystoneresort.com",
+      "elevation": {
+        "base": 9280,
+        "summit": 12408
+      },
+      "lifts": [
+        { "name": "River Run Gondola", "type": "gondola", "status": "open" },
+        { "name": "Montezuma Gondola", "type": "gondola", "status": "open" },
+        { "name": "Santiago Express", "type": "six-pack", "status": "open" },
+        { "name": "Outpost Gondola", "type": "gondola", "status": "open" },
+        { "name": "Decrum Express", "type": "quad", "status": "open" },
+        { "name": "Argentum", "type": "quad", "status": "open" },
+        { "name": "Ruby", "type": "quad", "status": "open" },
+        { "name": "Wayback", "type": "triple", "status": "open" },
+        { "name": "Labonte's", "type": "surface", "status": "closed" },
+        { "name": "Flume", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "arapahoe-basin",
+      "name": "Arapahoe Basin",
+      "region": "Summit/Eagle",
+      "website": "https://www.arapahoebasin.com",
+      "elevation": {
+        "base": 10780,
+        "summit": 13050
+      },
+      "lifts": [
+        { "name": "Lenawee Mountain Lift", "type": "six-pack", "status": "open" },
+        { "name": "Black Mountain Express", "type": "quad", "status": "open" },
+        { "name": "Molly Hogan", "type": "surface", "status": "open" },
+        { "name": "Pallavicini", "type": "triple", "status": "open" },
+        { "name": "Beavers", "type": "triple", "status": "open" },
+        { "name": "High Noon Express", "type": "quad", "status": "open" },
+        { "name": "Zuma Lift", "type": "quad", "status": "open" },
+        { "name": "Norway", "type": "surface", "status": "closed" }
+      ]
+    },
+    {
+      "id": "loveland",
+      "name": "Loveland",
+      "region": "Summit/Eagle",
+      "website": "https://www.skiloveland.com",
+      "elevation": {
+        "base": 10800,
+        "summit": 13010
+      },
+      "lifts": [
+        { "name": "Cabriolet", "type": "gondola", "status": "open" },
+        { "name": "Chair 1", "type": "double", "status": "open" },
+        { "name": "Chair 2 Express", "type": "quad", "status": "open" },
+        { "name": "Chair 4", "type": "quad", "status": "open" },
+        { "name": "Chair 8", "type": "quad", "status": "open" },
+        { "name": "Chair 9", "type": "triple", "status": "open" },
+        { "name": "Chair 11", "type": "triple", "status": "closed" },
+        { "name": "Ptarmigan", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "copper-mountain",
+      "name": "Copper Mountain",
+      "region": "Summit/Eagle",
+      "website": "https://www.coppercolorado.com",
+      "elevation": {
+        "base": 9712,
+        "summit": 12313
+      },
+      "lifts": [
+        { "name": "Flyer", "type": "gondola", "status": "open" },
+        { "name": "American Eagle", "type": "six-pack", "status": "open" },
+        { "name": "American Flyer", "type": "six-pack", "status": "open" },
+        { "name": "Timberline Express", "type": "quad", "status": "open" },
+        { "name": "Super Bee", "type": "six-pack", "status": "open" },
+        { "name": "Excelerator", "type": "quad", "status": "open" },
+        { "name": "Storm King", "type": "triple", "status": "open" },
+        { "name": "Resolution", "type": "triple", "status": "closed" },
+        { "name": "Rendezvous", "type": "surface", "status": "open" },
+        { "name": "Pitchfork", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "beaver-creek",
+      "name": "Beaver Creek",
+      "region": "Summit/Eagle",
+      "website": "https://www.beavercreek.com",
+      "elevation": {
+        "base": 8100,
+        "summit": 11440
+      },
+      "lifts": [
+        { "name": "Centennial Express", "type": "gondola", "status": "open" },
+        { "name": "Strawberry Park Express", "type": "quad", "status": "open" },
+        { "name": "Larkspur Express", "type": "quad", "status": "open" },
+        { "name": "Cinch Express", "type": "quad", "status": "open" },
+        { "name": "Grouse Mountain Express", "type": "quad", "status": "open" },
+        { "name": "Haymaker", "type": "quad", "status": "open" },
+        { "name": "Highlands Express", "type": "quad", "status": "closed" },
+        { "name": "Stone Creek Meadows", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "winter-park",
+      "name": "Winter Park",
+      "region": "Front Range",
+      "website": "https://www.winterparkresort.com",
+      "elevation": {
+        "base": 9000,
+        "summit": 12060
+      },
+      "lifts": [
+        { "name": "Zephyr Express", "type": "gondola", "status": "open" },
+        { "name": "Gemini Express", "type": "six-pack", "status": "open" },
+        { "name": "Olympia Express", "type": "quad", "status": "open" },
+        { "name": "Parsenn Bowl Express", "type": "quad", "status": "open" },
+        { "name": "Pioneer Express", "type": "quad", "status": "open" },
+        { "name": "Arrow", "type": "quad", "status": "open" },
+        { "name": "Vasquez Express", "type": "quad", "status": "open" },
+        { "name": "Rail Splitter", "type": "quad", "status": "open" },
+        { "name": "Panoramic Express", "type": "quad", "status": "closed" },
+        { "name": "Lariat", "type": "triple", "status": "open" },
+        { "name": "Sunspot Gondola", "type": "gondola", "status": "open" }
+      ]
+    },
+    {
+      "id": "eldora",
+      "name": "Eldora Mountain",
+      "region": "Front Range",
+      "website": "https://www.eldora.com",
+      "elevation": {
+        "base": 9200,
+        "summit": 10800
+      },
+      "lifts": [
+        { "name": "Corona", "type": "quad", "status": "open" },
+        { "name": "Challenge", "type": "quad", "status": "open" },
+        { "name": "Alpenglow", "type": "double", "status": "open" },
+        { "name": "Sundance", "type": "double", "status": "open" },
+        { "name": "Frostbite", "type": "surface", "status": "closed" },
+        { "name": "Sundowner", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "steamboat",
+      "name": "Steamboat",
+      "region": "Northwest",
+      "website": "https://www.steamboat.com",
+      "elevation": {
+        "base": 6900,
+        "summit": 10568
+      },
+      "lifts": [
+        { "name": "Christie Peak Express", "type": "gondola", "status": "open" },
+        { "name": "Steamboat Gondola", "type": "gondola", "status": "open" },
+        { "name": "Thunderhead Express", "type": "quad", "status": "open" },
+        { "name": "Storm Peak Express", "type": "quad", "status": "open" },
+        { "name": "Sunshine Express", "type": "quad", "status": "open" },
+        { "name": "Burgess Creek", "type": "quad", "status": "open" },
+        { "name": "Pioneer Ridge", "type": "quad", "status": "open" },
+        { "name": "Morningside", "type": "quad", "status": "closed" },
+        { "name": "Four Points", "type": "triple", "status": "open" },
+        { "name": "Headwall", "type": "double", "status": "open" }
+      ]
+    },
+    {
+      "id": "telluride",
+      "name": "Telluride",
+      "region": "Southwest",
+      "website": "https://www.tellurideskiresort.com",
+      "elevation": {
+        "base": 8750,
+        "summit": 13150
+      },
+      "lifts": [
+        { "name": "Gondola", "type": "gondola", "status": "open" },
+        { "name": "Coonskin", "type": "quad", "status": "open" },
+        { "name": "Lift 7", "type": "quad", "status": "open" },
+        { "name": "Lift 8", "type": "quad", "status": "open" },
+        { "name": "Lift 9", "type": "triple", "status": "open" },
+        { "name": "Lift 10", "type": "quad", "status": "open" },
+        { "name": "Lift 12", "type": "quad", "status": "open" },
+        { "name": "Gold Hill", "type": "triple", "status": "closed" },
+        { "name": "Lift 14", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "crested-butte",
+      "name": "Crested Butte",
+      "region": "Southwest",
+      "website": "https://www.skicb.com",
+      "elevation": {
+        "base": 9375,
+        "summit": 12162
+      },
+      "lifts": [
+        { "name": "Red Lady Express", "type": "quad", "status": "open" },
+        { "name": "East River Express", "type": "quad", "status": "open" },
+        { "name": "Silver Queen Express", "type": "quad", "status": "open" },
+        { "name": "Paradise Express", "type": "quad", "status": "open" },
+        { "name": "Prospect", "type": "triple", "status": "open" },
+        { "name": "Painter Boy", "type": "triple", "status": "closed" },
+        { "name": "Keystone", "type": "surface", "status": "open" },
+        { "name": "Peanut", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "aspen-mountain",
+      "name": "Aspen Mountain",
+      "region": "Roaring Fork",
+      "website": "https://www.aspensnowmass.com/mountains/aspen-mountain",
+      "elevation": {
+        "base": 7945,
+        "summit": 11212
+      },
+      "lifts": [
+        { "name": "Silver Queen Gondola", "type": "gondola", "status": "open" },
+        { "name": "Ajax Express", "type": "quad", "status": "open" },
+        { "name": "Little Nell", "type": "quad", "status": "open" },
+        { "name": "Ruthie's", "type": "quad", "status": "open" },
+        { "name": "Spar Gulch", "type": "quad", "status": "open" },
+        { "name": "Gent's Ridge", "type": "quad", "status": "closed" }
+      ]
+    },
+    {
+      "id": "aspen-highlands",
+      "name": "Aspen Highlands",
+      "region": "Roaring Fork",
+      "website": "https://www.aspensnowmass.com/mountains/aspen-highlands",
+      "elevation": {
+        "base": 8040,
+        "summit": 11675
+      },
+      "lifts": [
+        { "name": "Cloud Nine Express", "type": "quad", "status": "open" },
+        { "name": "Exhibition", "type": "quad", "status": "open" },
+        { "name": "Golden Horn", "type": "triple", "status": "open" },
+        { "name": "Loge Peak", "type": "quad", "status": "open" },
+        { "name": "Olympic", "type": "double", "status": "closed" }
+      ]
+    },
+    {
+      "id": "snowmass",
+      "name": "Snowmass",
+      "region": "Roaring Fork",
+      "website": "https://www.aspensnowmass.com/mountains/snowmass",
+      "elevation": {
+        "base": 8104,
+        "summit": 12510
+      },
+      "lifts": [
+        { "name": "Elk Camp Gondola", "type": "gondola", "status": "open" },
+        { "name": "Village Express", "type": "six-pack", "status": "open" },
+        { "name": "Elk Camp Express", "type": "quad", "status": "open" },
+        { "name": "Sam's Knob Express", "type": "quad", "status": "open" },
+        { "name": "Cirque", "type": "triple", "status": "open" },
+        { "name": "High Alpine Express", "type": "quad", "status": "open" },
+        { "name": "Campground", "type": "quad", "status": "open" },
+        { "name": "Two Creeks", "type": "quad", "status": "closed" },
+        { "name": "Treeline", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "buttermilk",
+      "name": "Buttermilk",
+      "region": "Roaring Fork",
+      "website": "https://www.aspensnowmass.com/mountains/buttermilk",
+      "elevation": {
+        "base": 7870,
+        "summit": 9900
+      },
+      "lifts": [
+        { "name": "Buttermilk Mountain Express", "type": "quad", "status": "open" },
+        { "name": "West Buttermilk", "type": "triple", "status": "open" },
+        { "name": "Tiehack", "type": "double", "status": "open" },
+        { "name": "Panda", "type": "surface", "status": "open" },
+        { "name": "Ptarmigan", "type": "surface", "status": "closed" }
+      ]
+    },
+    {
+      "id": "wolf-creek",
+      "name": "Wolf Creek",
+      "region": "Southwest",
+      "website": "https://wolfcreekski.com",
+      "elevation": {
+        "base": 10300,
+        "summit": 11904
+      },
+      "lifts": [
+        { "name": "Alberta Peak", "type": "quad", "status": "open" },
+        { "name": "Nova", "type": "triple", "status": "open" },
+        { "name": "Treasure", "type": "triple", "status": "open" },
+        { "name": "Exhibition", "type": "double", "status": "open" },
+        { "name": "Raven", "type": "surface", "status": "open" },
+        { "name": "Charisma", "type": "surface", "status": "closed" }
+      ]
+    },
+    {
+      "id": "monarch",
+      "name": "Monarch Mountain",
+      "region": "Southwest",
+      "website": "https://www.skimonarch.com",
+      "elevation": {
+        "base": 10790,
+        "summit": 11952
+      },
+      "lifts": [
+        { "name": "Panorama", "type": "quad", "status": "open" },
+        { "name": "Garfield", "type": "triple", "status": "open" },
+        { "name": "Tuscarora", "type": "double", "status": "open" },
+        { "name": "Gunbarrel", "type": "surface", "status": "open" },
+        { "name": "Outlaw", "type": "surface", "status": "closed" }
+      ]
+    },
+    {
+      "id": "purgatory",
+      "name": "Purgatory",
+      "region": "Southwest",
+      "website": "https://www.purgatoryresort.com",
+      "elevation": {
+        "base": 8793,
+        "summit": 10822
+      },
+      "lifts": [
+        { "name": "Purgatory Village Express", "type": "quad", "status": "open" },
+        { "name": "Legends Express", "type": "quad", "status": "open" },
+        { "name": "Twilight", "type": "triple", "status": "open" },
+        { "name": "Hermosa Park Express", "type": "quad", "status": "open" },
+        { "name": "Paul's Park", "type": "triple", "status": "closed" },
+        { "name": "Grizzly", "type": "double", "status": "open" },
+        { "name": "Pinkerton Horse", "type": "surface", "status": "open" }
+      ]
+    },
+    {
+      "id": "ski-cooper",
+      "name": "Ski Cooper",
+      "region": "Central",
+      "website": "https://www.skicooper.com",
+      "elevation": {
+        "base": 10500,
+        "summit": 11700
+      },
+      "lifts": [
+        { "name": "Endeavor", "type": "triple", "status": "open" },
+        { "name": "Ptarmigan", "type": "double", "status": "open" },
+        { "name": "Tomahawk", "type": "surface", "status": "open" },
+        { "name": "Sackett", "type": "surface", "status": "closed" }
+      ]
+    },
+    {
+      "id": "silverton",
+      "name": "Silverton Mountain",
+      "region": "Southwest",
+      "website": "https://www.silvertonmountain.com",
+      "elevation": {
+        "base": 10400,
+        "summit": 13487
+      },
+      "lifts": [
+        { "name": "Silverton Chairlift", "type": "double", "status": "open" },
+        { "name": "Phoenix", "type": "surface", "status": "open" }
+      ]
+    }
+  ]
+}
