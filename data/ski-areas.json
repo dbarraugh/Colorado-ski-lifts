@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T20:26:26Z",
+  "lastUpdated": "2026-03-31T21:03:54Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -69,7 +69,7 @@
         {
           "name": "Tea Cup Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Game Creek Bowl",
@@ -123,7 +123,7 @@
         {
           "name": "Snowflake Six",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Beaver Run SuperChair",
@@ -261,7 +261,7 @@
         {
           "name": "Molly Hogan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pallavicini",
@@ -443,7 +443,7 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Haymaker",
@@ -453,7 +453,7 @@
         {
           "name": "Highlands Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Stone Creek Meadows",
@@ -512,7 +512,7 @@
         {
           "name": "Rail Splitter",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panoramic Express",
@@ -679,7 +679,7 @@
         {
           "name": "Lift 10",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 12",
@@ -694,7 +694,7 @@
         {
           "name": "Lift 14",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.9375,
@@ -743,12 +743,12 @@
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.8986,
@@ -1046,7 +1046,7 @@
         {
           "name": "Hermosa Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paul's Park",
