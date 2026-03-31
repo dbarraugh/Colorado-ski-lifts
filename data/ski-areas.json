@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T16:32:47Z",
+  "lastUpdated": "2026-03-31T17:48:50Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -24,7 +24,7 @@
         {
           "name": "Highline",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Northwoods Express",
@@ -54,7 +54,7 @@
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sun Up Express",
@@ -163,7 +163,7 @@
         {
           "name": "Mercury SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rip's Ride",
@@ -197,7 +197,7 @@
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outpost Gondola",
@@ -286,7 +286,7 @@
         {
           "name": "Norway",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6426,
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.68,
@@ -394,7 +394,7 @@
         {
           "name": "Resolution",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rendezvous",
@@ -566,7 +566,7 @@
         {
           "name": "Frostbite",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sundowner",
@@ -630,7 +630,7 @@
         {
           "name": "Four Points",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Headwall",
@@ -674,7 +674,7 @@
         {
           "name": "Lift 9",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 10",
@@ -694,7 +694,7 @@
         {
           "name": "Lift 14",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.9375,
@@ -787,7 +787,7 @@
         {
           "name": "Spar Gulch",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gent's Ridge",
@@ -826,7 +826,7 @@
         {
           "name": "Loge Peak",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Olympic",
@@ -855,7 +855,7 @@
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Elk Camp Express",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.2031,
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 38.5125,
@@ -1095,7 +1095,7 @@
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.3603,
