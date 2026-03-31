@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T21:51:58Z",
+  "lastUpdated": "2026-03-31T22:24:08Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -168,7 +168,7 @@
         {
           "name": "Rip's Ride",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.4817,
@@ -192,7 +192,7 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Santiago Express",
@@ -217,7 +217,7 @@
         {
           "name": "Ruby",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Wayback",
@@ -374,7 +374,7 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Super Bee",
@@ -625,7 +625,7 @@
         {
           "name": "Morningside",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Four Points",
@@ -718,7 +718,7 @@
         {
           "name": "East River Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Silver Queen Express",
@@ -953,7 +953,7 @@
         {
           "name": "Nova",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treasure",
