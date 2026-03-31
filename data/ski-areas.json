@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T22:24:08Z",
+  "lastUpdated": "2026-03-31T22:57:34Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -19,7 +19,7 @@
         {
           "name": "Gondola One",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Highline",
@@ -123,7 +123,7 @@
         {
           "name": "Snowflake Six",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Beaver Run SuperChair",
@@ -168,7 +168,7 @@
         {
           "name": "Rip's Ride",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.4817,
@@ -227,7 +227,7 @@
         {
           "name": "Labonte's",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Flume",
@@ -546,7 +546,7 @@
         {
           "name": "Corona",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Challenge",
@@ -718,7 +718,7 @@
         {
           "name": "East River Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Silver Queen Express",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treeline",
@@ -1046,7 +1046,7 @@
         {
           "name": "Hermosa Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paul's Park",
