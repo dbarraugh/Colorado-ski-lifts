@@ -5,20 +5,30 @@
   let currentRegion = 'all';
   let currentSearch = '';
   let currentStatus = 'all';
+  const POLL_INTERVAL_MS = 5 * 60 * 1000; // 5 minutes
+
+  async function loadData() {
+    // Cache-busting query string ensures the browser fetches the latest file
+    const response = await fetch('data/ski-areas.json?t=' + Date.now());
+    if (!response.ok) throw new Error('Failed to load ski area data');
+    return response.json();
+  }
+
   async function init() {
     try {
-      const response = await fetch('data/ski-areas.json');
-      if (!response.ok) throw new Error('Failed to load ski area data');
-      const data = await response.json();
+      const data = await loadData();
       allAreas = data.skiAreas;
 
       document.getElementById('last-updated').textContent =
-        'Data as of ' + formatDate(data.lastUpdated);
+        'Updated ' + formatTimestamp(data.lastUpdated);
 
       populateRegionFilter();
       renderStats();
       renderCards();
       bindEvents();
+
+      // Auto-refresh data every 5 minutes without a full page reload
+      setInterval(refresh, POLL_INTERVAL_MS);
     } catch (err) {
       console.error(err);
       document.getElementById('ski-areas-grid').innerHTML =
@@ -26,8 +36,33 @@
     }
   }
 
-  function formatDate(dateStr) {
-    const d = new Date(dateStr + 'T00:00:00');
+  async function refresh() {
+    try {
+      const indicator = document.getElementById('last-updated');
+      indicator.textContent = 'Refreshing…';
+
+      const data = await loadData();
+      allAreas = data.skiAreas;
+
+      indicator.textContent = 'Updated ' + formatTimestamp(data.lastUpdated);
+
+      renderStats();
+      renderCards();
+    } catch (err) {
+      console.error('Auto-refresh failed:', err);
+      document.getElementById('last-updated').textContent = 'Refresh failed – retrying soon';
+    }
+  }
+
+  function formatTimestamp(isoStr) {
+    const d = new Date(isoStr);
+    // If the string is a full ISO datetime, show date + time; otherwise just date
+    if (isoStr.includes('T')) {
+      return d.toLocaleString('en-US', {
+        year: 'numeric', month: 'short', day: 'numeric',
+        hour: 'numeric', minute: '2-digit', timeZoneName: 'short'
+      });
+    }
     return d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
   }
 
