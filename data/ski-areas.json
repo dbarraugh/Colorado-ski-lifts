@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T18:41:23Z",
+  "lastUpdated": "2026-03-31T19:41:54Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -79,7 +79,7 @@
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Dipper",
@@ -197,7 +197,7 @@
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outpost Gondola",
@@ -571,7 +571,7 @@
         {
           "name": "Sundowner",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.9372,
@@ -684,7 +684,7 @@
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gold Hill",
@@ -782,12 +782,12 @@
         {
           "name": "Ruthie's",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Spar Gulch",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gent's Ridge",
@@ -875,7 +875,7 @@
         {
           "name": "High Alpine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Campground",
