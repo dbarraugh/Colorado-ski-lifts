@@ -1,0 +1,477 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --blue-dark: #1a3a5c;
+  --blue-mid: #2563a8;
+  --blue-light: #4a90d9;
+  --snow-white: #f0f4f8;
+  --mountain-gray: #6b7280;
+  --green-open: #16a34a;
+  --green-open-bg: #dcfce7;
+  --red-closed: #dc2626;
+  --red-closed-bg: #fee2e2;
+  --accent-gold: #d4af37;
+  --card-bg: #ffffff;
+  --shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  --shadow-hover: 0 6px 24px rgba(0, 0, 0, 0.15);
+  --border-radius: 12px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: var(--snow-white);
+  color: #1f2937;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+/* Header */
+header {
+  background: linear-gradient(135deg, var(--blue-dark) 0%, var(--blue-mid) 60%, var(--blue-light) 100%);
+  color: white;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+}
+
+header::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 60'%3E%3Cpath fill='%23f0f4f8' d='M0,60 L0,35 L120,10 L240,40 L360,15 L480,45 L600,20 L720,50 L840,25 L960,55 L1080,30 L1200,50 L1320,20 L1440,40 L1440,60 Z'/%3E%3C/svg%3E") no-repeat bottom;
+  background-size: cover;
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.header-icon {
+  font-size: 3rem;
+  margin-bottom: 0.75rem;
+  display: block;
+}
+
+header h1 {
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+header p {
+  font-size: 1.1rem;
+  margin-top: 0.5rem;
+  opacity: 0.9;
+}
+
+.last-updated {
+  display: inline-block;
+  margin-top: 1rem;
+  background: rgba(255,255,255,0.2);
+  padding: 0.3rem 1rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  backdrop-filter: blur(4px);
+}
+
+/* Main content */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+/* Stats bar */
+.stats-bar {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+
+.stat-card {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 1rem 1.5rem;
+  box-shadow: var(--shadow);
+  text-align: center;
+  flex: 1;
+  min-width: 140px;
+}
+
+.stat-number {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--blue-mid);
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--mountain-gray);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 0.25rem;
+}
+
+/* Controls */
+.controls {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  padding: 1.25rem 1.5rem;
+  box-shadow: var(--shadow);
+  margin-bottom: 2rem;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.controls label {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--blue-dark);
+  white-space: nowrap;
+}
+
+.search-box {
+  flex: 1;
+  min-width: 200px;
+  position: relative;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 0.6rem 1rem 0.6rem 2.5rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  transition: border-color 0.2s;
+  background: white;
+}
+
+.search-box input:focus {
+  outline: none;
+  border-color: var(--blue-mid);
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--mountain-gray);
+  font-size: 0.9rem;
+}
+
+.filter-group {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.filter-btn {
+  padding: 0.5rem 1rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  background: white;
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+  color: #374151;
+}
+
+.filter-btn:hover {
+  border-color: var(--blue-mid);
+  color: var(--blue-mid);
+}
+
+.filter-btn.active {
+  background: var(--blue-mid);
+  border-color: var(--blue-mid);
+  color: white;
+}
+
+select {
+  padding: 0.55rem 2rem 0.55rem 0.75rem;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  background: white url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath fill='%236b7280' d='M6 8L0 0h12z'/%3E%3C/svg%3E") no-repeat right 0.75rem center;
+  appearance: none;
+  cursor: pointer;
+  transition: border-color 0.2s;
+  color: #374151;
+}
+
+select:focus {
+  outline: none;
+  border-color: var(--blue-mid);
+}
+
+/* Ski area grid */
+.ski-areas-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 1.5rem;
+}
+
+.ski-area-card {
+  background: var(--card-bg);
+  border-radius: var(--border-radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.ski-area-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-hover);
+}
+
+.card-header {
+  background: linear-gradient(135deg, var(--blue-dark), var(--blue-mid));
+  color: white;
+  padding: 1.25rem 1.5rem;
+  position: relative;
+}
+
+.card-header h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+
+.card-header .region-badge {
+  display: inline-block;
+  background: rgba(255,255,255,0.2);
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  margin-top: 0.3rem;
+}
+
+.elevation-info {
+  position: absolute;
+  right: 1.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: right;
+  font-size: 0.75rem;
+  opacity: 0.9;
+}
+
+.elevation-info .value {
+  font-size: 1rem;
+  font-weight: 700;
+  display: block;
+}
+
+.card-stats {
+  display: flex;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.card-stat {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  border-right: 1px solid #e5e7eb;
+}
+
+.card-stat:last-child {
+  border-right: none;
+}
+
+.card-stat .num {
+  font-size: 1.5rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.card-stat .lbl {
+  font-size: 0.7rem;
+  color: var(--mountain-gray);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.num.open-color { color: var(--green-open); }
+.num.closed-color { color: var(--red-closed); }
+.num.total-color { color: var(--blue-mid); }
+
+.lift-progress {
+  height: 4px;
+  background: #e5e7eb;
+  margin: 0;
+}
+
+.lift-progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg, var(--green-open), #22c55e);
+  transition: width 0.4s ease;
+}
+
+/* Lifts list */
+.lifts-section {
+  padding: 1rem 1.5rem 1.25rem;
+}
+
+.lifts-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: var(--blue-dark);
+}
+
+.lifts-toggle .toggle-icon {
+  transition: transform 0.2s;
+  font-size: 0.8rem;
+}
+
+.lifts-toggle.expanded .toggle-icon {
+  transform: rotate(180deg);
+}
+
+.lifts-list {
+  display: none;
+  margin-top: 0.75rem;
+  gap: 0.4rem;
+  flex-direction: column;
+}
+
+.lifts-list.expanded {
+  display: flex;
+}
+
+.lift-item {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  padding: 0.45rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  background: #f9fafb;
+}
+
+.lift-item.open {
+  background: var(--green-open-bg);
+}
+
+.lift-item.closed {
+  background: var(--red-closed-bg);
+}
+
+.lift-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.open .lift-status-dot { background: var(--green-open); }
+.closed .lift-status-dot { background: var(--red-closed); }
+
+.lift-name {
+  flex: 1;
+  font-weight: 500;
+}
+
+.lift-type-badge {
+  padding: 0.1rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.7rem;
+  background: rgba(0,0,0,0.06);
+  color: var(--mountain-gray);
+  text-transform: capitalize;
+}
+
+.card-link {
+  display: block;
+  text-align: center;
+  padding: 0.75rem;
+  background: var(--snow-white);
+  color: var(--blue-mid);
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border-top: 1px solid #e5e7eb;
+  transition: background 0.2s;
+}
+
+.card-link:hover {
+  background: #e5e7eb;
+}
+
+/* No results */
+.no-results {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--mountain-gray);
+  grid-column: 1 / -1;
+}
+
+.no-results .icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  background: var(--blue-dark);
+  color: rgba(255,255,255,0.7);
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 0.85rem;
+}
+
+footer a {
+  color: var(--blue-light);
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .ski-areas-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .controls {
+    flex-direction: column;
+  }
+
+  .stats-bar {
+    gap: 0.75rem;
+  }
+
+  .stat-card {
+    min-width: 100px;
+    padding: 0.75rem 1rem;
+  }
+
+  .elevation-info {
+    display: none;
+  }
+}
