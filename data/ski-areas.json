@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T19:41:54Z",
+  "lastUpdated": "2026-03-31T20:26:26Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -54,7 +54,7 @@
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sun Up Express",
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.68,
@@ -443,12 +443,12 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Haymaker",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Highlands Express",
@@ -497,7 +497,7 @@
         {
           "name": "Pioneer Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Arrow",
@@ -517,7 +517,7 @@
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lariat",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Thunderhead Express",
@@ -738,7 +738,7 @@
         {
           "name": "Painter Boy",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Keystone",
@@ -880,7 +880,7 @@
         {
           "name": "Campground",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Two Creeks",
@@ -953,7 +953,7 @@
         {
           "name": "Nova",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treasure",
@@ -992,7 +992,7 @@
         {
           "name": "Panorama",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Garfield",
