@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T21:07:57Z",
+  "lastUpdated": "2026-04-01T21:56:21Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -276,7 +276,7 @@
         {
           "name": "High Noon Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Zuma Lift",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Storm King",
@@ -423,7 +423,7 @@
         {
           "name": "Centennial Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Strawberry Park Express",
@@ -433,7 +433,7 @@
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cinch Express",
@@ -443,7 +443,7 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Haymaker",
@@ -512,7 +512,7 @@
         {
           "name": "Rail Splitter",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Panoramic Express",
@@ -551,7 +551,7 @@
         {
           "name": "Challenge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Alpenglow",
@@ -566,7 +566,7 @@
         {
           "name": "Frostbite",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sundowner",
@@ -610,7 +610,7 @@
         {
           "name": "Sunshine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Burgess Creek",
@@ -748,7 +748,7 @@
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.8986,
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.5125,
