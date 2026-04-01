@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T17:36:22Z",
+  "lastUpdated": "2026-04-01T18:35:29Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -19,7 +19,7 @@
         {
           "name": "Gondola One",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Highline",
@@ -108,7 +108,7 @@
         {
           "name": "BreckConnect Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Independence SuperChair",
@@ -153,7 +153,7 @@
         {
           "name": "T-Bar",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 7 SuperExpress",
@@ -163,7 +163,7 @@
         {
           "name": "Mercury SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rip's Ride",
@@ -192,7 +192,7 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Santiago Express",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ruby",
@@ -286,7 +286,7 @@
         {
           "name": "Norway",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6426,
@@ -448,7 +448,7 @@
         {
           "name": "Haymaker",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Highlands Express",
@@ -477,7 +477,7 @@
         {
           "name": "Zephyr Express",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gemini Express",
@@ -743,7 +743,7 @@
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peanut",
@@ -767,7 +767,7 @@
         {
           "name": "Silver Queen Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ajax Express",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Treeline",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.2031,
@@ -973,7 +973,7 @@
         {
           "name": "Charisma",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.4742,
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 38.5125,
@@ -1031,7 +1031,7 @@
         {
           "name": "Purgatory Village Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Legends Express",
@@ -1061,7 +1061,7 @@
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.6303,
