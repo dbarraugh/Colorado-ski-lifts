@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T19:41:44Z",
+  "lastUpdated": "2026-04-01T20:26:18Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -39,7 +39,7 @@
         {
           "name": "Wildwood Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Avanti Express",
@@ -192,7 +192,7 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Santiago Express",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ruby",
@@ -310,7 +310,7 @@
         {
           "name": "Chair 1",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 2 Express",
@@ -374,7 +374,7 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Super Bee",
@@ -458,7 +458,7 @@
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6042,
@@ -527,7 +527,7 @@
         {
           "name": "Sunspot Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.8841,
@@ -571,7 +571,7 @@
         {
           "name": "Sundowner",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.9372,
@@ -625,7 +625,7 @@
         {
           "name": "Morningside",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Four Points",
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Exhibition",
@@ -831,7 +831,7 @@
         {
           "name": "Olympic",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1583,
@@ -909,7 +909,7 @@
         {
           "name": "Buttermilk Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "West Buttermilk",
@@ -919,7 +919,7 @@
         {
           "name": "Tiehack",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panda",
