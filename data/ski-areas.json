@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T21:59:09Z",
+  "lastUpdated": "2026-04-02T22:40:55Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -34,7 +34,7 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Wildwood Express",
@@ -74,7 +74,7 @@
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Orient Express",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ruby",
@@ -232,7 +232,7 @@
         {
           "name": "Flume",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.5792,
@@ -266,7 +266,7 @@
         {
           "name": "Pallavicini",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Beavers",
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.68,
@@ -404,7 +404,7 @@
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5022,
@@ -428,7 +428,7 @@
         {
           "name": "Strawberry Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Larkspur Express",
@@ -487,7 +487,7 @@
         {
           "name": "Olympia Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Parsenn Bowl Express",
@@ -517,7 +517,7 @@
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lariat",
@@ -654,7 +654,7 @@
         {
           "name": "Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Coonskin",
@@ -865,7 +865,7 @@
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cirque",
@@ -914,7 +914,7 @@
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tiehack",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.2031,
@@ -1080,7 +1080,7 @@
         {
           "name": "Endeavor",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
