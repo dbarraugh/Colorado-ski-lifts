@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T20:04:28Z",
+  "lastUpdated": "2026-04-02T20:50:36Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -315,7 +315,7 @@
         {
           "name": "Chair 2 Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 4",
@@ -359,7 +359,7 @@
         {
           "name": "Flyer",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Eagle",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm King",
@@ -487,7 +487,7 @@
         {
           "name": "Olympia Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Parsenn Bowl Express",
@@ -635,7 +635,7 @@
         {
           "name": "Headwall",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 40.4572,
@@ -669,7 +669,7 @@
         {
           "name": "Lift 8",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 9",
@@ -821,7 +821,7 @@
         {
           "name": "Golden Horn",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Loge Peak",
