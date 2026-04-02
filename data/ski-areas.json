@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T19:31:29Z",
+  "lastUpdated": "2026-04-02T20:04:28Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -49,7 +49,7 @@
         {
           "name": "Mountaintop Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sun Down Bowl",
@@ -59,7 +59,7 @@
         {
           "name": "Sun Up Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "China Bowl",
@@ -153,7 +153,7 @@
         {
           "name": "T-Bar",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 7 SuperExpress",
@@ -192,12 +192,12 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outpost Gondola",
@@ -227,7 +227,7 @@
         {
           "name": "Labonte's",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Flume",
@@ -256,7 +256,7 @@
         {
           "name": "Black Mountain Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Molly Hogan",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Storm King",
@@ -492,7 +492,7 @@
         {
           "name": "Parsenn Bowl Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pioneer Express",
@@ -669,7 +669,7 @@
         {
           "name": "Lift 8",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 9",
@@ -855,7 +855,7 @@
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Elk Camp Express",
@@ -997,7 +997,7 @@
         {
           "name": "Garfield",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tuscarora",
@@ -1041,7 +1041,7 @@
         {
           "name": "Twilight",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Hermosa Park Express",
@@ -1061,7 +1061,7 @@
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.6303,
@@ -1114,7 +1114,7 @@
         {
           "name": "Silverton Chairlift",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Phoenix",
