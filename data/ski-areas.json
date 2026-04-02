@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T21:23:52Z",
+  "lastUpdated": "2026-04-02T21:59:09Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -24,7 +24,7 @@
         {
           "name": "Highline",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Northwoods Express",
@@ -128,7 +128,7 @@
         {
           "name": "Beaver Run SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 8 SuperConnect",
@@ -192,7 +192,7 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Santiago Express",
@@ -232,7 +232,7 @@
         {
           "name": "Flume",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5792,
@@ -315,7 +315,7 @@
         {
           "name": "Chair 2 Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 4",
@@ -433,7 +433,7 @@
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cinch Express",
@@ -453,7 +453,7 @@
         {
           "name": "Highlands Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Stone Creek Meadows",
@@ -620,12 +620,12 @@
         {
           "name": "Pioneer Ridge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Morningside",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Four Points",
@@ -654,7 +654,7 @@
         {
           "name": "Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Coonskin",
@@ -1056,7 +1056,7 @@
         {
           "name": "Grizzly",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pinkerton Horse",
