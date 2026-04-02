@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T17:32:53Z",
+  "lastUpdated": "2026-04-02T18:31:20Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -74,12 +74,12 @@
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Dipper",
@@ -108,7 +108,7 @@
         {
           "name": "BreckConnect Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Independence SuperChair",
@@ -158,12 +158,12 @@
         {
           "name": "Peak 7 SuperExpress",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Mercury SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rip's Ride",
@@ -187,7 +187,7 @@
         {
           "name": "River Run Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Montezuma Gondola",
@@ -197,7 +197,7 @@
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outpost Gondola",
@@ -325,7 +325,7 @@
         {
           "name": "Chair 8",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 9",
@@ -507,7 +507,7 @@
         {
           "name": "Vasquez Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Rail Splitter",
@@ -551,7 +551,7 @@
         {
           "name": "Challenge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Alpenglow",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Thunderhead Express",
@@ -630,7 +630,7 @@
         {
           "name": "Four Points",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Headwall",
@@ -718,7 +718,7 @@
         {
           "name": "East River Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Silver Queen Express",
@@ -743,7 +743,7 @@
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peanut",
@@ -816,7 +816,7 @@
         {
           "name": "Exhibition",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Golden Horn",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Treeline",
@@ -914,12 +914,12 @@
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tiehack",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Panda",
@@ -963,12 +963,12 @@
         {
           "name": "Exhibition",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Raven",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Charisma",
