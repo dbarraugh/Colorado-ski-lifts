@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T20:58:01Z",
+  "lastUpdated": "2026-04-03T21:40:13Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -44,7 +44,7 @@
         {
           "name": "Avanti Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Mountaintop Express",
@@ -64,7 +64,7 @@
         {
           "name": "China Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tea Cup Bowl",
@@ -192,7 +192,7 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Santiago Express",
@@ -227,7 +227,7 @@
         {
           "name": "Labonte's",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Flume",
@@ -251,7 +251,7 @@
         {
           "name": "Lenawee Mountain Lift",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Black Mountain Express",
@@ -433,7 +433,7 @@
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cinch Express",
@@ -482,7 +482,7 @@
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Olympia Express",
@@ -502,12 +502,12 @@
         {
           "name": "Arrow",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Vasquez Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Rail Splitter",
@@ -615,7 +615,7 @@
         {
           "name": "Burgess Creek",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pioneer Ridge",
@@ -684,12 +684,12 @@
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gold Hill",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 14",
@@ -718,12 +718,12 @@
         {
           "name": "East River Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Silver Queen Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Paradise Express",
@@ -738,7 +738,7 @@
         {
           "name": "Painter Boy",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Keystone",
@@ -821,7 +821,7 @@
         {
           "name": "Golden Horn",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Loge Peak",
@@ -875,7 +875,7 @@
         {
           "name": "High Alpine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Campground",
@@ -919,12 +919,12 @@
         {
           "name": "Tiehack",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Panda",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -992,7 +992,7 @@
         {
           "name": "Panorama",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Garfield",
@@ -1036,7 +1036,7 @@
         {
           "name": "Legends Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Twilight",
