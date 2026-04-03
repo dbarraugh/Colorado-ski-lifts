@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T17:33:20Z",
+  "lastUpdated": "2026-04-03T18:05:13Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -59,7 +59,7 @@
         {
           "name": "Sun Up Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "China Bowl",
@@ -113,7 +113,7 @@
         {
           "name": "Independence SuperChair",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Falcon SuperChair",
@@ -251,7 +251,7 @@
         {
           "name": "Lenawee Mountain Lift",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Black Mountain Express",
@@ -271,7 +271,7 @@
         {
           "name": "Beavers",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "High Noon Express",
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.68,
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm King",
@@ -428,7 +428,7 @@
         {
           "name": "Strawberry Park Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Larkspur Express",
@@ -507,7 +507,7 @@
         {
           "name": "Vasquez Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rail Splitter",
@@ -517,7 +517,7 @@
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lariat",
@@ -556,12 +556,12 @@
         {
           "name": "Alpenglow",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sundance",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Frostbite",
@@ -615,12 +615,12 @@
         {
           "name": "Burgess Creek",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pioneer Ridge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Morningside",
@@ -659,7 +659,7 @@
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 7",
@@ -728,7 +728,7 @@
         {
           "name": "Paradise Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Prospect",
@@ -772,7 +772,7 @@
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Nell",
@@ -924,7 +924,7 @@
         {
           "name": "Panda",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.5125,
@@ -1036,7 +1036,7 @@
         {
           "name": "Legends Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Twilight",
@@ -1056,7 +1056,7 @@
         {
           "name": "Grizzly",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pinkerton Horse",
