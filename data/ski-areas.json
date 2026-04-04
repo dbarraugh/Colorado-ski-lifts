@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T20:44:50Z",
+  "lastUpdated": "2026-04-04T21:15:59Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -89,7 +89,7 @@
         {
           "name": "Chaos Canyon",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6403,
@@ -128,12 +128,12 @@
         {
           "name": "Beaver Run SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 8 SuperConnect",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Quicksilver Six",
@@ -286,7 +286,7 @@
         {
           "name": "Norway",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6426,
@@ -335,7 +335,7 @@
         {
           "name": "Chair 11",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -364,7 +364,7 @@
         {
           "name": "American Eagle",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "American Flyer",
@@ -433,7 +433,7 @@
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cinch Express",
@@ -571,7 +571,7 @@
         {
           "name": "Sundowner",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.9372,
@@ -615,7 +615,7 @@
         {
           "name": "Burgess Creek",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pioneer Ridge",
@@ -635,7 +635,7 @@
         {
           "name": "Headwall",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 40.4572,
@@ -659,7 +659,7 @@
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 7",
@@ -679,7 +679,7 @@
         {
           "name": "Lift 10",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 12",
@@ -738,7 +738,7 @@
         {
           "name": "Painter Boy",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Keystone",
@@ -748,7 +748,7 @@
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.8986,
@@ -782,7 +782,7 @@
         {
           "name": "Ruthie's",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Spar Gulch",
@@ -880,12 +880,12 @@
         {
           "name": "Campground",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treeline",
@@ -1061,7 +1061,7 @@
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.6303,
