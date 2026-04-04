@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T17:46:43Z",
+  "lastUpdated": "2026-04-04T18:20:37Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -79,12 +79,12 @@
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Dipper",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chaos Canyon",
@@ -256,7 +256,7 @@
         {
           "name": "Black Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Molly Hogan",
@@ -330,7 +330,7 @@
         {
           "name": "Chair 9",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 11",
@@ -389,7 +389,7 @@
         {
           "name": "Storm King",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Resolution",
@@ -458,7 +458,7 @@
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6042,
@@ -487,7 +487,7 @@
         {
           "name": "Olympia Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Parsenn Bowl Express",
@@ -664,7 +664,7 @@
         {
           "name": "Lift 7",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 8",
@@ -733,7 +733,7 @@
         {
           "name": "Prospect",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Painter Boy",
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Exhibition",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.2031,
@@ -968,12 +968,12 @@
         {
           "name": "Raven",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Charisma",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.4742,
@@ -1046,7 +1046,7 @@
         {
           "name": "Hermosa Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paul's Park",
@@ -1056,7 +1056,7 @@
         {
           "name": "Grizzly",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pinkerton Horse",
