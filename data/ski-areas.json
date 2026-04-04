@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T22:13:51Z",
+  "lastUpdated": "2026-04-04T22:50:22Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -39,7 +39,7 @@
         {
           "name": "Wildwood Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Avanti Express",
@@ -261,7 +261,7 @@
         {
           "name": "Molly Hogan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pallavicini",
@@ -305,12 +305,12 @@
         {
           "name": "Cabriolet",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 1",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 2 Express",
@@ -330,7 +330,7 @@
         {
           "name": "Chair 9",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 11",
@@ -374,7 +374,7 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Super Bee",
@@ -507,7 +507,7 @@
         {
           "name": "Vasquez Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rail Splitter",
@@ -517,7 +517,7 @@
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lariat",
@@ -600,7 +600,7 @@
         {
           "name": "Thunderhead Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm Peak Express",
@@ -654,7 +654,7 @@
         {
           "name": "Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Coonskin",
@@ -684,7 +684,7 @@
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gold Hill",
@@ -713,7 +713,7 @@
         {
           "name": "Red Lady Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "East River Express",
@@ -850,7 +850,7 @@
         {
           "name": "Elk Camp Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Village Express",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Treeline",
@@ -924,7 +924,7 @@
         {
           "name": "Panda",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -1119,7 +1119,7 @@
         {
           "name": "Phoenix",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.8847,
