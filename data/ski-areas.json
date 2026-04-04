@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T15:30:58Z",
+  "lastUpdated": "2026-04-04T15:57:06Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -34,7 +34,7 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Wildwood Express",
@@ -44,7 +44,7 @@
         {
           "name": "Avanti Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Mountaintop Express",
@@ -69,17 +69,17 @@
         {
           "name": "Tea Cup Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Little Dipper",
@@ -128,7 +128,7 @@
         {
           "name": "Beaver Run SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 8 SuperConnect",
@@ -168,7 +168,7 @@
         {
           "name": "Rip's Ride",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.4817,
@@ -207,7 +207,7 @@
         {
           "name": "Decrum Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Argentum",
@@ -222,7 +222,7 @@
         {
           "name": "Wayback",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Labonte's",
@@ -305,7 +305,7 @@
         {
           "name": "Cabriolet",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 1",
@@ -359,7 +359,7 @@
         {
           "name": "Flyer",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "American Eagle",
@@ -369,7 +369,7 @@
         {
           "name": "American Flyer",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Timberline Express",
@@ -394,7 +394,7 @@
         {
           "name": "Resolution",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rendezvous",
@@ -458,7 +458,7 @@
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6042,
@@ -566,7 +566,7 @@
         {
           "name": "Frostbite",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sundowner",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Thunderhead Express",
@@ -610,7 +610,7 @@
         {
           "name": "Sunshine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Burgess Creek",
@@ -728,7 +728,7 @@
         {
           "name": "Paradise Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Prospect",
@@ -777,12 +777,12 @@
         {
           "name": "Little Nell",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ruthie's",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Spar Gulch",
@@ -831,7 +831,7 @@
         {
           "name": "Olympic",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1583,
@@ -870,7 +870,7 @@
         {
           "name": "Cirque",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "High Alpine Express",
@@ -909,7 +909,7 @@
         {
           "name": "Buttermilk Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "West Buttermilk",
@@ -958,7 +958,7 @@
         {
           "name": "Treasure",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Exhibition",
@@ -968,7 +968,7 @@
         {
           "name": "Raven",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Charisma",
@@ -992,7 +992,7 @@
         {
           "name": "Panorama",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Garfield",
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outlaw",
@@ -1080,7 +1080,7 @@
         {
           "name": "Endeavor",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -1090,12 +1090,12 @@
         {
           "name": "Tomahawk",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.3603,
