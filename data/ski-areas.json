@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T16:40:37Z",
+  "lastUpdated": "2026-04-04T17:06:30Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -59,12 +59,12 @@
         {
           "name": "Sun Up Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "China Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tea Cup Bowl",
@@ -118,7 +118,7 @@
         {
           "name": "Falcon SuperChair",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Snowflake Six",
@@ -138,12 +138,12 @@
         {
           "name": "Quicksilver Six",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rocky Mountain SuperExpress",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Imperial Express SuperChair",
@@ -197,7 +197,7 @@
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outpost Gondola",
@@ -261,7 +261,7 @@
         {
           "name": "Molly Hogan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pallavicini",
@@ -369,7 +369,7 @@
         {
           "name": "American Flyer",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Timberline Express",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm King",
@@ -428,7 +428,7 @@
         {
           "name": "Strawberry Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Larkspur Express",
@@ -458,7 +458,7 @@
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6042,
@@ -482,7 +482,7 @@
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Olympia Express",
@@ -502,7 +502,7 @@
         {
           "name": "Arrow",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Vasquez Express",
@@ -546,17 +546,17 @@
         {
           "name": "Corona",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Challenge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Alpenglow",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sundance",
@@ -654,7 +654,7 @@
         {
           "name": "Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Coonskin",
@@ -689,7 +689,7 @@
         {
           "name": "Gold Hill",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 14",
@@ -713,7 +713,7 @@
         {
           "name": "Red Lady Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "East River Express",
@@ -733,7 +733,7 @@
         {
           "name": "Prospect",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Painter Boy",
@@ -772,7 +772,7 @@
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Nell",
@@ -865,7 +865,7 @@
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cirque",
