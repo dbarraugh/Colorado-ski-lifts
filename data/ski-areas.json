@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T20:16:02Z",
+  "lastUpdated": "2026-04-05T20:52:43Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -305,7 +305,7 @@
         {
           "name": "Cabriolet",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 1",
@@ -330,7 +330,7 @@
         {
           "name": "Chair 9",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 11",
@@ -404,7 +404,7 @@
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5022,
@@ -482,7 +482,7 @@
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Olympia Express",
@@ -605,7 +605,7 @@
         {
           "name": "Storm Peak Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sunshine Express",
@@ -772,7 +772,7 @@
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Little Nell",
@@ -792,7 +792,7 @@
         {
           "name": "Gent's Ridge",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.1869,
@@ -816,7 +816,7 @@
         {
           "name": "Exhibition",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Golden Horn",
@@ -1080,7 +1080,7 @@
         {
           "name": "Endeavor",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -1095,7 +1095,7 @@
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.3603,
