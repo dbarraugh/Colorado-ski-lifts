@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T21:24:07Z",
+  "lastUpdated": "2026-04-05T21:53:58Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -49,7 +49,7 @@
         {
           "name": "Mountaintop Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sun Down Bowl",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ruby",
@@ -281,7 +281,7 @@
         {
           "name": "Zuma Lift",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Norway",
@@ -389,7 +389,7 @@
         {
           "name": "Storm King",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Resolution",
@@ -561,7 +561,7 @@
         {
           "name": "Sundance",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Frostbite",
@@ -684,7 +684,7 @@
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gold Hill",
@@ -728,7 +728,7 @@
         {
           "name": "Paradise Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Prospect",
@@ -865,7 +865,7 @@
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cirque",
@@ -914,7 +914,7 @@
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tiehack",
@@ -958,7 +958,7 @@
         {
           "name": "Treasure",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Exhibition",
@@ -1041,7 +1041,7 @@
         {
           "name": "Twilight",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Hermosa Park Express",
@@ -1051,7 +1051,7 @@
         {
           "name": "Paul's Park",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Grizzly",
@@ -1095,7 +1095,7 @@
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.3603,
