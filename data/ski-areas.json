@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T17:45:52Z",
+  "lastUpdated": "2026-04-05T18:21:31Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -69,7 +69,7 @@
         {
           "name": "Tea Cup Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Game Creek Bowl",
@@ -89,7 +89,7 @@
         {
           "name": "Chaos Canyon",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6403,
@@ -108,7 +108,7 @@
         {
           "name": "BreckConnect Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Independence SuperChair",
@@ -163,7 +163,7 @@
         {
           "name": "Mercury SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rip's Ride",
@@ -261,7 +261,7 @@
         {
           "name": "Molly Hogan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pallavicini",
@@ -276,7 +276,7 @@
         {
           "name": "High Noon Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Zuma Lift",
@@ -364,7 +364,7 @@
         {
           "name": "American Eagle",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Flyer",
@@ -379,7 +379,7 @@
         {
           "name": "Super Bee",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Excelerator",
@@ -551,7 +551,7 @@
         {
           "name": "Challenge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Alpenglow",
@@ -850,12 +850,12 @@
         {
           "name": "Elk Camp Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Elk Camp Express",
