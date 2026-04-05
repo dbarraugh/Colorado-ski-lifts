@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T18:21:31Z",
+  "lastUpdated": "2026-04-05T19:07:39Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -69,12 +69,12 @@
         {
           "name": "Tea Cup Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Orient Express",
@@ -138,7 +138,7 @@
         {
           "name": "Quicksilver Six",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rocky Mountain SuperExpress",
@@ -222,7 +222,7 @@
         {
           "name": "Wayback",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Labonte's",
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.68,
@@ -364,7 +364,7 @@
         {
           "name": "American Eagle",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "American Flyer",
@@ -482,7 +482,7 @@
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Olympia Express",
@@ -556,7 +556,7 @@
         {
           "name": "Alpenglow",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sundance",
@@ -620,7 +620,7 @@
         {
           "name": "Pioneer Ridge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Morningside",
@@ -743,7 +743,7 @@
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peanut",
@@ -772,7 +772,7 @@
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Nell",
@@ -831,7 +831,7 @@
         {
           "name": "Olympic",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1583,
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treeline",
@@ -919,7 +919,7 @@
         {
           "name": "Tiehack",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panda",
@@ -1095,7 +1095,7 @@
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.3603,
