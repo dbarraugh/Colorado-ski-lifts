@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T20:52:43Z",
+  "lastUpdated": "2026-04-05T21:24:07Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -19,7 +19,7 @@
         {
           "name": "Gondola One",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Highline",
@@ -89,7 +89,7 @@
         {
           "name": "Chaos Canyon",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6403,
@@ -158,7 +158,7 @@
         {
           "name": "Peak 7 SuperExpress",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Mercury SuperChair",
@@ -276,7 +276,7 @@
         {
           "name": "High Noon Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Zuma Lift",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Storm King",
@@ -404,7 +404,7 @@
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.5022,
@@ -433,7 +433,7 @@
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cinch Express",
@@ -522,7 +522,7 @@
         {
           "name": "Lariat",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sunspot Gondola",
@@ -605,7 +605,7 @@
         {
           "name": "Storm Peak Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sunshine Express",
@@ -855,7 +855,7 @@
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Elk Camp Express",
@@ -865,7 +865,7 @@
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cirque",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.2031,
@@ -997,7 +997,7 @@
         {
           "name": "Garfield",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tuscarora",
@@ -1056,7 +1056,7 @@
         {
           "name": "Grizzly",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pinkerton Horse",
