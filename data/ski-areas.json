@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T20:00:21Z",
+  "lastUpdated": "2026-04-06T20:49:45Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ruby",
@@ -251,7 +251,7 @@
         {
           "name": "Lenawee Mountain Lift",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Black Mountain Express",
@@ -266,12 +266,12 @@
         {
           "name": "Pallavicini",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Beavers",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "High Noon Express",
@@ -369,7 +369,7 @@
         {
           "name": "American Flyer",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Timberline Express",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm King",
@@ -517,7 +517,7 @@
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lariat",
@@ -659,7 +659,7 @@
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 7",
@@ -679,7 +679,7 @@
         {
           "name": "Lift 10",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 12",
@@ -748,7 +748,7 @@
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 38.8986,
@@ -860,7 +860,7 @@
         {
           "name": "Elk Camp Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sam's Knob Express",
@@ -870,7 +870,7 @@
         {
           "name": "Cirque",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "High Alpine Express",
@@ -914,12 +914,12 @@
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tiehack",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panda",
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outlaw",
@@ -1031,7 +1031,7 @@
         {
           "name": "Purgatory Village Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Legends Express",
@@ -1061,7 +1061,7 @@
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.6303,
