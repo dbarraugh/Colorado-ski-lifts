@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T18:03:01Z",
+  "lastUpdated": "2026-04-06T19:15:46Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -14,7 +14,7 @@
         {
           "name": "Eagle Bahn Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gondola One",
@@ -49,12 +49,12 @@
         {
           "name": "Mountaintop Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sun Up Express",
@@ -192,12 +192,12 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outpost Gondola",
@@ -217,7 +217,7 @@
         {
           "name": "Ruby",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Wayback",
@@ -232,7 +232,7 @@
         {
           "name": "Flume",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.5792,
@@ -325,7 +325,7 @@
         {
           "name": "Chair 8",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 9",
@@ -359,7 +359,7 @@
         {
           "name": "Flyer",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Eagle",
@@ -492,7 +492,7 @@
         {
           "name": "Parsenn Bowl Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pioneer Express",
@@ -743,7 +743,7 @@
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peanut",
@@ -772,7 +772,7 @@
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Little Nell",
@@ -914,7 +914,7 @@
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tiehack",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.2031,
