@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T21:25:24Z",
+  "lastUpdated": "2026-04-06T21:59:30Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -34,7 +34,7 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Wildwood Express",
@@ -113,7 +113,7 @@
         {
           "name": "Independence SuperChair",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Falcon SuperChair",
@@ -148,7 +148,7 @@
         {
           "name": "Imperial Express SuperChair",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "T-Bar",
@@ -276,12 +276,12 @@
         {
           "name": "High Noon Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Zuma Lift",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Norway",
@@ -374,7 +374,7 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Super Bee",
@@ -389,7 +389,7 @@
         {
           "name": "Storm King",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Resolution",
@@ -546,7 +546,7 @@
         {
           "name": "Corona",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Challenge",
@@ -635,7 +635,7 @@
         {
           "name": "Headwall",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 40.4572,
@@ -723,7 +723,7 @@
         {
           "name": "Silver Queen Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paradise Express",
@@ -743,7 +743,7 @@
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Peanut",
@@ -767,7 +767,7 @@
         {
           "name": "Silver Queen Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ajax Express",
@@ -831,7 +831,7 @@
         {
           "name": "Olympic",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1583,
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outlaw",
@@ -1051,7 +1051,7 @@
         {
           "name": "Paul's Park",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Grizzly",
