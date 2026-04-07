@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T21:58:46Z",
+  "lastUpdated": "2026-04-07T22:50:05Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -54,7 +54,7 @@
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sun Up Express",
@@ -384,7 +384,7 @@
         {
           "name": "Excelerator",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Storm King",
@@ -679,7 +679,7 @@
         {
           "name": "Lift 10",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 12",
@@ -728,7 +728,7 @@
         {
           "name": "Paradise Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Prospect",
@@ -855,7 +855,7 @@
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Elk Camp Express",
@@ -875,7 +875,7 @@
         {
           "name": "High Alpine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Campground",
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outlaw",
@@ -1085,7 +1085,7 @@
         {
           "name": "Ptarmigan",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tomahawk",
@@ -1095,7 +1095,7 @@
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.3603,
