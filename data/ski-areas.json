@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T22:50:05Z",
+  "lastUpdated": "2026-04-07T23:25:59Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -14,12 +14,12 @@
         {
           "name": "Eagle Bahn Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gondola One",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Highline",
@@ -34,17 +34,17 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Wildwood Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Avanti Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Mountaintop Express",
@@ -54,42 +54,42 @@
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sun Up Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "China Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tea Cup Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Little Dipper",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chaos Canyon",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6403,
@@ -108,52 +108,52 @@
         {
           "name": "BreckConnect Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Independence SuperChair",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Falcon SuperChair",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Snowflake Six",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Beaver Run SuperChair",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Peak 8 SuperConnect",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Quicksilver Six",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Rocky Mountain SuperExpress",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Imperial Express SuperChair",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "T-Bar",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Peak 7 SuperExpress",
@@ -163,7 +163,7 @@
         {
           "name": "Mercury SuperChair",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Rip's Ride",
@@ -192,7 +192,7 @@
         {
           "name": "Montezuma Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Santiago Express",
@@ -202,17 +202,17 @@
         {
           "name": "Outpost Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Decrum Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ruby",
@@ -222,17 +222,17 @@
         {
           "name": "Wayback",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Labonte's",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Flume",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5792,
@@ -251,42 +251,42 @@
         {
           "name": "Lenawee Mountain Lift",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Black Mountain Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Molly Hogan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pallavicini",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Beavers",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "High Noon Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Zuma Lift",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Norway",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6426,
@@ -305,7 +305,7 @@
         {
           "name": "Cabriolet",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 1",
@@ -320,27 +320,27 @@
         {
           "name": "Chair 4",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 8",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 9",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 11",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.68,
@@ -359,27 +359,27 @@
         {
           "name": "Flyer",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Eagle",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Flyer",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Super Bee",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Excelerator",
@@ -389,7 +389,7 @@
         {
           "name": "Storm King",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Resolution",
@@ -399,12 +399,12 @@
         {
           "name": "Rendezvous",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5022,
@@ -423,17 +423,17 @@
         {
           "name": "Centennial Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Strawberry Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cinch Express",
@@ -443,22 +443,22 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Haymaker",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Highlands Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6042,
@@ -477,32 +477,32 @@
         {
           "name": "Zephyr Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Olympia Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Parsenn Bowl Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pioneer Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Arrow",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Vasquez Express",
@@ -512,17 +512,17 @@
         {
           "name": "Rail Splitter",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lariat",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sunspot Gondola",
@@ -546,22 +546,22 @@
         {
           "name": "Corona",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Challenge",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Alpenglow",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sundance",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Frostbite",
@@ -571,7 +571,7 @@
         {
           "name": "Sundowner",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.9372,
@@ -590,52 +590,52 @@
         {
           "name": "Christie Peak Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Thunderhead Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Storm Peak Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sunshine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Burgess Creek",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pioneer Ridge",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Morningside",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Four Points",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Headwall",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 40.4572,
@@ -654,47 +654,47 @@
         {
           "name": "Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 7",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 8",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 9",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 10",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gold Hill",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 14",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.9375,
@@ -713,17 +713,17 @@
         {
           "name": "Red Lady Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "East River Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Silver Queen Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paradise Express",
@@ -733,22 +733,22 @@
         {
           "name": "Prospect",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Painter Boy",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Keystone",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.8986,
@@ -767,32 +767,32 @@
         {
           "name": "Silver Queen Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Little Nell",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ruthie's",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Spar Gulch",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gent's Ridge",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.1869,
@@ -816,22 +816,22 @@
         {
           "name": "Exhibition",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Golden Horn",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Loge Peak",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Olympic",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.1583,
@@ -850,27 +850,27 @@
         {
           "name": "Elk Camp Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Elk Camp Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cirque",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "High Alpine Express",
@@ -880,7 +880,7 @@
         {
           "name": "Campground",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Two Creeks",
@@ -890,7 +890,7 @@
         {
           "name": "Treeline",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.2089,
@@ -909,27 +909,27 @@
         {
           "name": "Buttermilk Mountain Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tiehack",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panda",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.2031,
@@ -948,12 +948,12 @@
         {
           "name": "Alberta Peak",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Nova",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treasure",
@@ -963,12 +963,12 @@
         {
           "name": "Exhibition",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Raven",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Charisma",
@@ -992,17 +992,17 @@
         {
           "name": "Panorama",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Garfield",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tuscarora",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gunbarrel",
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.5125,
@@ -1036,32 +1036,32 @@
         {
           "name": "Legends Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Twilight",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Hermosa Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paul's Park",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Grizzly",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.6303,
@@ -1080,7 +1080,7 @@
         {
           "name": "Endeavor",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
@@ -1090,12 +1090,12 @@
         {
           "name": "Tomahawk",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.3603,
@@ -1114,12 +1114,12 @@
         {
           "name": "Silverton Chairlift",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Phoenix",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.8847,
