@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T19:41:48Z",
+  "lastUpdated": "2026-04-07T20:26:42Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -143,7 +143,7 @@
         {
           "name": "Rocky Mountain SuperExpress",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Imperial Express SuperChair",
@@ -207,7 +207,7 @@
         {
           "name": "Decrum Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Argentum",
@@ -305,7 +305,7 @@
         {
           "name": "Cabriolet",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 1",
@@ -522,7 +522,7 @@
         {
           "name": "Lariat",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sunspot Gondola",
@@ -551,7 +551,7 @@
         {
           "name": "Challenge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Alpenglow",
@@ -600,7 +600,7 @@
         {
           "name": "Thunderhead Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm Peak Express",
@@ -718,7 +718,7 @@
         {
           "name": "East River Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Silver Queen Express",
@@ -860,7 +860,7 @@
         {
           "name": "Elk Camp Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sam's Knob Express",
@@ -924,7 +924,7 @@
         {
           "name": "Panda",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
@@ -963,12 +963,12 @@
         {
           "name": "Exhibition",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Raven",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Charisma",
@@ -1031,7 +1031,7 @@
         {
           "name": "Purgatory Village Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Legends Express",
@@ -1061,7 +1061,7 @@
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.6303,
@@ -1080,7 +1080,7 @@
         {
           "name": "Endeavor",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ptarmigan",
