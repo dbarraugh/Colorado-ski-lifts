@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T16:32:24Z",
+  "lastUpdated": "2026-04-07T17:35:58Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -74,17 +74,17 @@
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Dipper",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chaos Canyon",
@@ -123,7 +123,7 @@
         {
           "name": "Snowflake Six",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Beaver Run SuperChair",
@@ -133,7 +133,7 @@
         {
           "name": "Peak 8 SuperConnect",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Quicksilver Six",
@@ -158,7 +158,7 @@
         {
           "name": "Peak 7 SuperExpress",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Mercury SuperChair",
@@ -202,7 +202,7 @@
         {
           "name": "Outpost Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Decrum Express",
@@ -232,7 +232,7 @@
         {
           "name": "Flume",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.5792,
@@ -261,7 +261,7 @@
         {
           "name": "Molly Hogan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pallavicini",
@@ -281,7 +281,7 @@
         {
           "name": "Zuma Lift",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Norway",
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.68,
@@ -364,7 +364,7 @@
         {
           "name": "American Eagle",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Flyer",
@@ -374,12 +374,12 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Super Bee",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Excelerator",
@@ -404,7 +404,7 @@
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.5022,
@@ -458,7 +458,7 @@
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6042,
@@ -497,12 +497,12 @@
         {
           "name": "Pioneer Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Arrow",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Vasquez Express",
@@ -590,7 +590,7 @@
         {
           "name": "Christie Peak Express",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Steamboat Gondola",
@@ -659,7 +659,7 @@
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 7",
@@ -684,7 +684,7 @@
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gold Hill",
@@ -694,7 +694,7 @@
         {
           "name": "Lift 14",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.9375,
@@ -723,7 +723,7 @@
         {
           "name": "Silver Queen Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Paradise Express",
@@ -792,7 +792,7 @@
         {
           "name": "Gent's Ridge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1869,
@@ -816,7 +816,7 @@
         {
           "name": "Exhibition",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Golden Horn",
@@ -831,7 +831,7 @@
         {
           "name": "Olympic",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1583,
@@ -865,7 +865,7 @@
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cirque",
@@ -890,7 +890,7 @@
         {
           "name": "Treeline",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.2089,
@@ -953,7 +953,7 @@
         {
           "name": "Nova",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Treasure",
@@ -973,7 +973,7 @@
         {
           "name": "Charisma",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.4742,
@@ -1056,7 +1056,7 @@
         {
           "name": "Grizzly",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pinkerton Horse",
