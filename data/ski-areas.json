@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T20:26:42Z",
+  "lastUpdated": "2026-04-07T21:11:33Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -108,7 +108,7 @@
         {
           "name": "BreckConnect Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Independence SuperChair",
@@ -158,7 +158,7 @@
         {
           "name": "Peak 7 SuperExpress",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Mercury SuperChair",
@@ -197,7 +197,7 @@
         {
           "name": "Santiago Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Outpost Gondola",
@@ -399,7 +399,7 @@
         {
           "name": "Rendezvous",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pitchfork",
@@ -423,7 +423,7 @@
         {
           "name": "Centennial Express",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Strawberry Park Express",
@@ -453,7 +453,7 @@
         {
           "name": "Highlands Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Stone Creek Meadows",
@@ -566,12 +566,12 @@
         {
           "name": "Frostbite",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sundowner",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.9372,
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Exhibition",
@@ -860,7 +860,7 @@
         {
           "name": "Elk Camp Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sam's Knob Express",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treeline",
@@ -973,7 +973,7 @@
         {
           "name": "Charisma",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.4742,
@@ -1002,7 +1002,7 @@
         {
           "name": "Tuscarora",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gunbarrel",
