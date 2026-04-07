@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T18:37:56Z",
+  "lastUpdated": "2026-04-07T19:41:48Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -14,7 +14,7 @@
         {
           "name": "Eagle Bahn Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gondola One",
@@ -64,7 +64,7 @@
         {
           "name": "China Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tea Cup Bowl",
@@ -168,7 +168,7 @@
         {
           "name": "Rip's Ride",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.4817,
@@ -286,7 +286,7 @@
         {
           "name": "Norway",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6426,
@@ -305,7 +305,7 @@
         {
           "name": "Cabriolet",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Chair 1",
@@ -394,7 +394,7 @@
         {
           "name": "Resolution",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Rendezvous",
@@ -428,7 +428,7 @@
         {
           "name": "Strawberry Park Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Larkspur Express",
@@ -443,7 +443,7 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Haymaker",
@@ -453,7 +453,7 @@
         {
           "name": "Highlands Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Stone Creek Meadows",
@@ -507,7 +507,7 @@
         {
           "name": "Vasquez Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Rail Splitter",
@@ -620,7 +620,7 @@
         {
           "name": "Pioneer Ridge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Morningside",
@@ -654,7 +654,7 @@
         {
           "name": "Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Coonskin",
@@ -669,7 +669,7 @@
         {
           "name": "Lift 8",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 9",
@@ -748,7 +748,7 @@
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 38.8986,
@@ -782,7 +782,7 @@
         {
           "name": "Ruthie's",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Spar Gulch",
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Exhibition",
@@ -850,7 +850,7 @@
         {
           "name": "Elk Camp Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Village Express",
@@ -875,7 +875,7 @@
         {
           "name": "High Alpine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Campground",
@@ -973,7 +973,7 @@
         {
           "name": "Charisma",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.4742,
