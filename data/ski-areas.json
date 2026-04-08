@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T20:05:50Z",
+  "lastUpdated": "2026-04-08T20:59:20Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -79,7 +79,7 @@
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Dipper",
@@ -108,7 +108,7 @@
         {
           "name": "BreckConnect Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Independence SuperChair",
@@ -128,12 +128,12 @@
         {
           "name": "Beaver Run SuperChair",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 8 SuperConnect",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Quicksilver Six",
@@ -222,7 +222,7 @@
         {
           "name": "Wayback",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Labonte's",
@@ -340,7 +340,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.68,
@@ -433,7 +433,7 @@
         {
           "name": "Larkspur Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Cinch Express",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Thunderhead Express",
@@ -772,7 +772,7 @@
         {
           "name": "Ajax Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Little Nell",
@@ -850,7 +850,7 @@
         {
           "name": "Elk Camp Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Village Express",
@@ -929,7 +929,7 @@
         {
           "name": "Ptarmigan",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.2031,
@@ -953,7 +953,7 @@
         {
           "name": "Nova",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treasure",
@@ -968,7 +968,7 @@
         {
           "name": "Raven",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Charisma",
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outlaw",
@@ -1046,7 +1046,7 @@
         {
           "name": "Hermosa Park Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Paul's Park",
