@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T22:05:19Z",
+  "lastUpdated": "2026-04-09T22:58:13Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -54,7 +54,7 @@
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sun Up Express",
@@ -74,7 +74,7 @@
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Orient Express",
@@ -123,7 +123,7 @@
         {
           "name": "Snowflake Six",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Beaver Run SuperChair",
@@ -133,7 +133,7 @@
         {
           "name": "Peak 8 SuperConnect",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Quicksilver Six",
@@ -374,7 +374,7 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Super Bee",
@@ -404,7 +404,7 @@
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.5022,
@@ -561,7 +561,7 @@
         {
           "name": "Sundance",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Frostbite",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Thunderhead Express",
@@ -605,7 +605,7 @@
         {
           "name": "Storm Peak Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sunshine Express",
@@ -748,7 +748,7 @@
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.8986,
