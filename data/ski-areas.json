@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:32:11Z",
+  "lastUpdated": "2026-04-09T21:25:48Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -19,7 +19,7 @@
         {
           "name": "Gondola One",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Highline",
@@ -69,7 +69,7 @@
         {
           "name": "Tea Cup Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Game Creek Bowl",
@@ -153,7 +153,7 @@
         {
           "name": "T-Bar",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Peak 7 SuperExpress",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ruby",
@@ -256,7 +256,7 @@
         {
           "name": "Black Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Molly Hogan",
@@ -271,7 +271,7 @@
         {
           "name": "Beavers",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "High Noon Express",
@@ -404,7 +404,7 @@
         {
           "name": "Pitchfork",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5022,
@@ -423,7 +423,7 @@
         {
           "name": "Centennial Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Strawberry Park Express",
@@ -448,7 +448,7 @@
         {
           "name": "Haymaker",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Highlands Express",
@@ -482,7 +482,7 @@
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Olympia Express",
@@ -610,7 +610,7 @@
         {
           "name": "Sunshine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Burgess Creek",
@@ -733,7 +733,7 @@
         {
           "name": "Prospect",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Painter Boy",
@@ -792,7 +792,7 @@
         {
           "name": "Gent's Ridge",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.1869,
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Exhibition",
@@ -826,7 +826,7 @@
         {
           "name": "Loge Peak",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Olympic",
@@ -850,7 +850,7 @@
         {
           "name": "Elk Camp Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Village Express",
@@ -870,7 +870,7 @@
         {
           "name": "Cirque",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "High Alpine Express",
@@ -924,7 +924,7 @@
         {
           "name": "Panda",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 38.5125,
@@ -1095,7 +1095,7 @@
         {
           "name": "Sackett",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.3603,
