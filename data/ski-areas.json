@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T21:52:48Z",
+  "lastUpdated": "2026-04-10T22:28:37Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -34,7 +34,7 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Wildwood Express",
@@ -54,7 +54,7 @@
         {
           "name": "Sun Down Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sun Up Express",
@@ -64,7 +64,7 @@
         {
           "name": "China Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tea Cup Bowl",
@@ -202,7 +202,7 @@
         {
           "name": "Outpost Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Decrum Express",
@@ -266,7 +266,7 @@
         {
           "name": "Pallavicini",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Beavers",
@@ -443,12 +443,12 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Haymaker",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Highlands Express",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Thunderhead Express",
@@ -605,7 +605,7 @@
         {
           "name": "Storm Peak Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sunshine Express",
@@ -635,7 +635,7 @@
         {
           "name": "Headwall",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 40.4572,
@@ -767,7 +767,7 @@
         {
           "name": "Silver Queen Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ajax Express",
@@ -973,7 +973,7 @@
         {
           "name": "Charisma",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 37.4742,
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outlaw",
@@ -1041,7 +1041,7 @@
         {
           "name": "Twilight",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Hermosa Park Express",
