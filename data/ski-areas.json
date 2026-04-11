@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T21:26:14Z",
+  "lastUpdated": "2026-04-11T21:56:28Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -14,7 +14,7 @@
         {
           "name": "Eagle Bahn Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gondola One",
@@ -89,7 +89,7 @@
         {
           "name": "Chaos Canyon",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6403,
@@ -153,7 +153,7 @@
         {
           "name": "T-Bar",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Peak 7 SuperExpress",
@@ -364,7 +364,7 @@
         {
           "name": "American Eagle",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "American Flyer",
@@ -477,7 +477,7 @@
         {
           "name": "Zephyr Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gemini Express",
@@ -502,7 +502,7 @@
         {
           "name": "Arrow",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Vasquez Express",
@@ -517,7 +517,7 @@
         {
           "name": "Panoramic Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lariat",
@@ -590,7 +590,7 @@
         {
           "name": "Christie Peak Express",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Steamboat Gondola",
@@ -630,7 +630,7 @@
         {
           "name": "Four Points",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Headwall",
@@ -826,7 +826,7 @@
         {
           "name": "Loge Peak",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Olympic",
@@ -890,7 +890,7 @@
         {
           "name": "Treeline",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.2089,
@@ -948,7 +948,7 @@
         {
           "name": "Alberta Peak",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Nova",
@@ -1036,7 +1036,7 @@
         {
           "name": "Legends Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Twilight",
@@ -1080,7 +1080,7 @@
         {
           "name": "Endeavor",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
@@ -1090,7 +1090,7 @@
         {
           "name": "Tomahawk",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Sackett",
