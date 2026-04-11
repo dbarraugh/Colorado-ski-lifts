@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T18:21:08Z",
+  "lastUpdated": "2026-04-11T19:08:19Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -14,7 +14,7 @@
         {
           "name": "Eagle Bahn Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gondola One",
@@ -24,7 +24,7 @@
         {
           "name": "Highline",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Northwoods Express",
@@ -187,7 +187,7 @@
         {
           "name": "River Run Gondola",
           "type": "gondola",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Montezuma Gondola",
@@ -251,7 +251,7 @@
         {
           "name": "Lenawee Mountain Lift",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Black Mountain Express",
@@ -458,7 +458,7 @@
         {
           "name": "Stone Creek Meadows",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 39.6042,
@@ -482,7 +482,7 @@
         {
           "name": "Gemini Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Olympia Express",
@@ -497,7 +497,7 @@
         {
           "name": "Pioneer Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Arrow",
@@ -659,7 +659,7 @@
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 7",
@@ -733,7 +733,7 @@
         {
           "name": "Prospect",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Painter Boy",
@@ -855,7 +855,7 @@
         {
           "name": "Village Express",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Elk Camp Express",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Treeline",
@@ -953,7 +953,7 @@
         {
           "name": "Nova",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Treasure",
@@ -1031,7 +1031,7 @@
         {
           "name": "Purgatory Village Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Legends Express",
@@ -1119,7 +1119,7 @@
         {
           "name": "Phoenix",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.8847,
