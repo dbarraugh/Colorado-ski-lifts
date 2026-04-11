@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T17:43:33Z",
+  "lastUpdated": "2026-04-11T18:21:08Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -24,7 +24,7 @@
         {
           "name": "Highline",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Northwoods Express",
@@ -59,7 +59,7 @@
         {
           "name": "Sun Up Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "China Bowl",
@@ -212,7 +212,7 @@
         {
           "name": "Argentum",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Ruby",
@@ -232,7 +232,7 @@
         {
           "name": "Flume",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.5792,
@@ -399,7 +399,7 @@
         {
           "name": "Rendezvous",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Pitchfork",
@@ -443,7 +443,7 @@
         {
           "name": "Grouse Mountain Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Haymaker",
@@ -502,17 +502,17 @@
         {
           "name": "Arrow",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Vasquez Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Rail Splitter",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Panoramic Express",
@@ -600,7 +600,7 @@
         {
           "name": "Thunderhead Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Storm Peak Express",
@@ -635,7 +635,7 @@
         {
           "name": "Headwall",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 40.4572,
@@ -669,7 +669,7 @@
         {
           "name": "Lift 8",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Lift 9",
@@ -684,7 +684,7 @@
         {
           "name": "Lift 12",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Gold Hill",
@@ -733,7 +733,7 @@
         {
           "name": "Prospect",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Painter Boy",
@@ -870,7 +870,7 @@
         {
           "name": "Cirque",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "High Alpine Express",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treeline",
@@ -953,7 +953,7 @@
         {
           "name": "Nova",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treasure",
@@ -997,7 +997,7 @@
         {
           "name": "Garfield",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Tuscarora",
@@ -1007,7 +1007,7 @@
         {
           "name": "Gunbarrel",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Outlaw",
