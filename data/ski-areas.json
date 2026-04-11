@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T20:53:27Z",
+  "lastUpdated": "2026-04-11T21:26:14Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -89,7 +89,7 @@
         {
           "name": "Chaos Canyon",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 39.6403,
@@ -379,7 +379,7 @@
         {
           "name": "Super Bee",
           "type": "six-pack",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Excelerator",
@@ -595,7 +595,7 @@
         {
           "name": "Steamboat Gondola",
           "type": "gondola",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Thunderhead Express",
@@ -630,7 +630,7 @@
         {
           "name": "Four Points",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Headwall",
@@ -659,7 +659,7 @@
         {
           "name": "Coonskin",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Lift 7",
@@ -968,7 +968,7 @@
         {
           "name": "Raven",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Charisma",
