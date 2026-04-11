@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T19:48:43Z",
+  "lastUpdated": "2026-04-11T20:16:16Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -34,7 +34,7 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Wildwood Express",
@@ -74,7 +74,7 @@
         {
           "name": "Game Creek Bowl",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Orient Express",
@@ -330,7 +330,7 @@
         {
           "name": "Chair 9",
           "type": "triple",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 11",
@@ -374,7 +374,7 @@
         {
           "name": "Timberline Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Super Bee",
@@ -453,7 +453,7 @@
         {
           "name": "Highlands Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Stone Creek Meadows",
@@ -512,7 +512,7 @@
         {
           "name": "Rail Splitter",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Panoramic Express",
@@ -748,7 +748,7 @@
         {
           "name": "Peanut",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 38.8986,
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Exhibition",
@@ -963,7 +963,7 @@
         {
           "name": "Exhibition",
           "type": "double",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Raven",
@@ -1002,7 +1002,7 @@
         {
           "name": "Tuscarora",
           "type": "double",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Gunbarrel",
@@ -1012,7 +1012,7 @@
         {
           "name": "Outlaw",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         }
       ],
       "latitude": 38.5125,
@@ -1036,7 +1036,7 @@
         {
           "name": "Legends Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Twilight",
@@ -1061,7 +1061,7 @@
         {
           "name": "Pinkerton Horse",
           "type": "surface",
-          "status": "closed"
+          "status": "open"
         }
       ],
       "latitude": 37.6303,
@@ -1090,7 +1090,7 @@
         {
           "name": "Tomahawk",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sackett",
