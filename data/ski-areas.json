@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T21:56:28Z",
+  "lastUpdated": "2026-04-11T22:34:39Z",
   "skiAreas": [
     {
       "id": "vail",
@@ -34,7 +34,7 @@
         {
           "name": "Born Free Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Wildwood Express",
@@ -59,7 +59,7 @@
         {
           "name": "Sun Up Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "China Bowl",
@@ -79,7 +79,7 @@
         {
           "name": "Orient Express",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Little Dipper",
@@ -118,7 +118,7 @@
         {
           "name": "Falcon SuperChair",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Snowflake Six",
@@ -251,7 +251,7 @@
         {
           "name": "Lenawee Mountain Lift",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Black Mountain Express",
@@ -315,7 +315,7 @@
         {
           "name": "Chair 2 Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Chair 4",
@@ -379,7 +379,7 @@
         {
           "name": "Super Bee",
           "type": "six-pack",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Excelerator",
@@ -566,7 +566,7 @@
         {
           "name": "Frostbite",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Sundowner",
@@ -811,7 +811,7 @@
         {
           "name": "Cloud Nine Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Exhibition",
@@ -865,7 +865,7 @@
         {
           "name": "Sam's Knob Express",
           "type": "quad",
-          "status": "closed"
+          "status": "open"
         },
         {
           "name": "Cirque",
@@ -885,7 +885,7 @@
         {
           "name": "Two Creeks",
           "type": "quad",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Treeline",
@@ -914,7 +914,7 @@
         {
           "name": "West Buttermilk",
           "type": "triple",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Tiehack",
@@ -924,7 +924,7 @@
         {
           "name": "Panda",
           "type": "surface",
-          "status": "open"
+          "status": "closed"
         },
         {
           "name": "Ptarmigan",
